@@ -17,8 +17,6 @@ export class MyComponent {
    */
   @Prop() middle: string;
 
-
-  
   /**
    * The last name
    */
